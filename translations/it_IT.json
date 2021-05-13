@@ -1674,5 +1674,18 @@
 
   "team_tranche": "Tranche del team",
   "reset_tranche": "Azzera tranche",
-  "reset_tranche_description": "Alla conferma tutte le tranche impostare per questo team verranno eliminate.\n Di conseguenza, tutte le tranche non ancora incassate degli alteti di questa squadra verranno eliminate, sei sicuro di procedere?"
+  "reset_tranche_description": "Alla conferma tutte le tranche impostare per questo team verranno eliminate.\n Di conseguenza, tutte le tranche non ancora incassate degli alteti di questa squadra verranno eliminate, sei sicuro di procedere?",
+
+  "old_season_dashboard_title": "Stai visualizzando la stagione",
+  "old_season_dashboard_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio accusamus officiasaepe, omnis.",
+
+  "membership_fees_cashed": "Membership fees cashed",
+  "membership_fees_to_be_cashed": "Membership fees to be cashed",
+  "paying_athletes": "Paying athletes",
+  "people": "People",
+
+  "matches_won": "Matches won",
+  "matches_drawn": "Matches drawn",
+  "matches_lost": "Matches lost",
+  "matches_played": "Matches played"
 }
