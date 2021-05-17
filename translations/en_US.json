@@ -1688,11 +1688,12 @@
   "matches_lost": "Matches lost",
   "matches_played": "Matches played",
 
-  "roles.CLUB_MANAGER": "Club Manager",
-  "roles.CLUB_MANAGER_DEMO": "Club Manager Demo",
-  "roles.COACH": "Coach",
-  "roles.VICE_CM": "vice Club Manager",
-  "roles.VISUALIZZATORE": "Visualizzatore",
-  "roles.SEGR_AMM": "Segreteria amministrativa",
-  "roles.UFF_STAMPE": "Ufficio stampa"
+  "roles.club_manager": "Club Manager",
+  "roles.club_manager_demo": "Club Manager Demo",
+  "roles.admin": "Admin",
+  "roles.coach": "Allenatore",
+  "roles.vice_club_manager": "vice Club Manager",
+  "roles.viewer_club_manager": "Visualizzatore",
+  "roles.administrative_secretary": "Segreteria amministrativa",
+  "roles.press_office": "Ufficio stampa"
 }
