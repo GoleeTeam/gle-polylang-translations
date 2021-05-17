@@ -1687,5 +1687,13 @@
   "matches_won": "Partite vinte",
   "matches_drawn": "Partite pareggiate",
   "matches_lost": "Partite perse",
-  "matches_played": "Partite giocate"
+  "matches_played": "Partite giocate",
+
+  "roles.CLUB_MANAGER": "Club Manager",
+  "roles.CLUB_MANAGER_DEMO": "Club Manager Demo",
+  "roles.COACH": "Allenatore",
+  "roles.VICE_CM": "vice Club Manager",
+  "roles.VISUALIZZATORE": "Visualizzatore",
+  "roles.SEGR_AMM": "Segreteria amministrativa",
+  "roles.UFF_STAMPE": "Ufficio stampa"
 }

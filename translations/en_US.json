@@ -1686,5 +1686,13 @@
   "matches_won": "Matches won",
   "matches_drawn": "Matches drawn",
   "matches_lost": "Matches lost",
-  "matches_played": "Matches played"
+  "matches_played": "Matches played",
+
+  "roles.CLUB_MANAGER": "Club Manager",
+  "roles.CLUB_MANAGER_DEMO": "Club Manager Demo",
+  "roles.COACH": "Coach",
+  "roles.VICE_CM": "vice Club Manager",
+  "roles.VISUALIZZATORE": "Visualizzatore",
+  "roles.SEGR_AMM": "Segreteria amministrativa",
+  "roles.UFF_STAMPE": "Ufficio stampa"
 }
