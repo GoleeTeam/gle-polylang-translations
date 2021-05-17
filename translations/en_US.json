@@ -1695,5 +1695,7 @@
   "roles.vice_club_manager": "vice Club Manager",
   "roles.viewer_club_manager": "Visualizzatore",
   "roles.administrative_secretary": "Segreteria amministrativa",
-  "roles.press_office": "Ufficio stampa"
+  "roles.press_office": "Ufficio stampa",
+
+  "disable_account": "Disable account"
 }
