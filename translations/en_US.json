@@ -1697,5 +1697,7 @@
   "roles.administrative_secretary": "Segreteria amministrativa",
   "roles.press_office": "Ufficio stampa",
 
-  "disable_account": "Disable account"
+  "disable_account": "Disable account",
+
+  "website_not_enabled": "Your club site has not been activated yet. Contact us to find out how to get started with Golee Web!"
 }
