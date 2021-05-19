@@ -1701,6 +1701,10 @@
   "roles.administrative_secretary.description": "View and edit in all Golee Manager Areas, excluding the Financial Area and all related economic data.",
   "roles.press_office.description": "View and edit the Social Area only.",
 
+  "profiles_description": "Profiles description",
+  "profile": "Profile",
+  "profile_description": "Description",
+
   "disable_account": "Disable account",
 
   "website_not_enabled": "Your club site has not been activated yet. Contact us to find out how to get started with Golee Web!"

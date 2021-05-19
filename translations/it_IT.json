@@ -1702,6 +1702,10 @@
   "roles.administrative_secretary.description": "Visualizza e modifica in tutte le Aree di Golee Manager, esclusa l'Area Finanziaria e tutti i dati economici connessi.",
   "roles.press_office.description": "Visualizza e modifica soltanto l'Area Social.",
 
+  "profiles_description": "Descrizione profili",
+  "profile": "Profilo",
+  "profile_description": "Descrizione",
+
   "disable_account": "Disabilita account",
 
   "website_not_enabled": "Il sito del tuo club non è ancora stato attivato. Contattaci per scoprire come iniziare con Golee Web!"
