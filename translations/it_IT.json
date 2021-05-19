@@ -1697,6 +1697,10 @@
   "roles.viewer_club_manager": "Visualizzatore",
   "roles.administrative_secretary": "Segreteria amministrativa",
   "roles.press_office": "Ufficio stampa",
+  "roles.vice_club_manager.description": "Visualizza e modifica in tutte le Aree di Golee Manager.",
+  "roles.viewer_club_manager.description": "Visualizza tutte le Aree di Golee Manager ma non può modificare nulla. Può generare delle stampe o usare i filtri negli elenchi.",
+  "roles.administrative_secretary.description": "Visualizza e modifica in tutte le Aree di Golee Manager, esclusa l'Area Finanziaria e tutti i dati economici connessi.",
+  "roles.press_office.description": "Visualizza e modifica soltanto l'Area Social.",
 
   "disable_account": "Disabilita account",
 
