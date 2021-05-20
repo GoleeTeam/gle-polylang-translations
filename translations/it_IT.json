@@ -1667,7 +1667,7 @@
   "tranches.golee_pay.see_hosted_invoice_url": "Vedi link di pagamento",
   "tranches.golee_pay.generate_hosted_invoice_url": "Genera link di pagamento",
   "tranches.golee_pay.generating.title": "Abbiamo generato il link per il pagamento della quota di:",
-  "tranches.golee_pay.generating.description": "Copia il link seguente e invialo al destinatario che dovrà effettuare il pagamento della tranche. Appena verrà saldata la quota, riceverai una notifica e si aggiornerà in automatico il portafoglio online.",
+  "tranches.golee_pay.generating.description": "1. Copia il link seguente\n2. Invialo al destinatario come preferisci (email, whatsapp, ecc.)\n3. Il destinatario aprirà una pagina dove potrà effettuare il pagamento velocemente con Carta di credito, bonifico bancario o Google Pay\n4. Appena effettuato il pagamento, riceverai una notifica\n5. Si aggiorna in automatico il tuo portafoglio online",
 
   "link.copied": "Link copiato negli appunti!",
   "link.clickToCopy": "Clicca qui per copiare il link!",
