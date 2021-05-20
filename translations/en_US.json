@@ -1707,5 +1707,8 @@
 
   "disable_account": "Disable account",
 
-  "website_not_enabled": "Your club site has not been activated yet. Contact us to find out how to get started with Golee Web!"
+  "website_not_enabled": "Your club site has not been activated yet. Contact us to find out how to get started with Golee Web!",
+
+  "press_office_dashboard_title": "Wecolme to Golee Manager",
+  "press_office_dashboard_description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid exercitationem, delectus eaque ratione velit deleniti mollitia atque iusto necessitatibus, molestiae rerum voluptates aspernatur fuga natus eum odio! Quod, ad."
 }
