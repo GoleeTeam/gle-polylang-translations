@@ -1709,6 +1709,15 @@
   "disable_account": "Disabilita account",
 
   "website_not_enabled": "Il sito del tuo club non è ancora stato attivato. Contattaci per scoprire come iniziare con Golee Web!",
+
   "press_office_dashboard_title": "Benvenuto su Golee Manager",
-  "press_office_dashboard_description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid exercitationem, delectus eaque ratione velit deleniti mollitia atque iusto necessitatibus, molestiae rerum voluptates aspernatur fuga natus eum odio! Quod, ad."
+  "website_settings": "Impostazioni sito web",
+  "manage_website": "Gestisci sito web",
+  "manage_website_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores maxime vero magnam exercitationem aliquid illum sapiente. Recusandae, adipisci ut?",
+  "manage_club_history": "Gestisci storia del club",
+  "manage_club_history_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores maxime vero magnam exercitationem aliquid illum sapiente. Recusandae, adipisci ut?",
+  "manage_news": "Gestisci news",
+  "manage_news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores maxime vero magnam exercitationem aliquid illum sapiente. Recusandae, adipisci ut?",
+  "manage_sponsors": "Gestisci sponsor",
+  "manage_sponsors_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores maxime vero magnam exercitationem aliquid illum sapiente. Recusandae, adipisci ut?"
 }
