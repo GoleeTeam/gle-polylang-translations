@@ -1724,5 +1724,14 @@
   "manage_sponsors_description": "Highlight the companies that believed in your sport club and enhance them with their logo and website link! You can add primary sponsors, visible in the homepage and secondary sponsors, which will appear only in the appropriate section.",
   "quarterly_vat": "Quarterly VAT",
   "choose_quarter_vat_print": "Choose the quarter to generate the Quarterly VAT document",
-  "balance": "Balance"
+  "balance": "Balance",
+  "add_new_conto_economico": "Add new Cash Balance",
+  "initial_cash_amount": "Saldo iniziale",
+  "used_for_golee_pay": "Associato a Golee Pay",
+  "code": "Code",
+  "CASH": "Cash",
+  "BANK": "Bank",
+  "OTHER": "Other",
+  "ACTIVE": "Active",
+  "NOT_ACTIVE": "Disabled"
 }
