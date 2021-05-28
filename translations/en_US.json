@@ -1873,7 +1873,7 @@
   "tranche_reason.B.10.002": "Riscatto atleti",
 
   "payment_method.CNT": "Contanti",
-  "payment_method,.PYP": "Paypal",
+  "payment_method.PYP": "Paypal",
   "payment_method.BNF": "Bonifico",
   "payment_method.ASN": "Assegno",
   "payment_method.CRD": "Carta di credito",
