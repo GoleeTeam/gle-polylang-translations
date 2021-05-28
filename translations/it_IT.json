@@ -1725,7 +1725,7 @@
   "quarterly_vat": "IVA Trimestrale",
   "choose_quarter_vat_print": "Scegli il quarter per generare il documento IVA Trimestrale",
   "balance": "Saldo",
-  "add_new_conto_economico": "Add new Cash Balance",
+  "add_new_conto_economico": "Aggiungi un nuovo Conto Economico",
   "initial_cash_amount": "Saldo iniziale",
   "used_for_golee_pay": "Used for Golee Pay",
   "code": "Codice",
@@ -1733,5 +1733,6 @@
   "BANK": "Banca",
   "OTHER": "Altro",
   "ACTIVE": "Attivo",
-  "NOT_ACTIVE": "Disattivo"
+  "NOT_ACTIVE": "Disattivo",
+  "state": "Stato"
 }

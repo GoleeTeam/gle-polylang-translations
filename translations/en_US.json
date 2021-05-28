@@ -1733,5 +1733,6 @@
   "BANK": "Bank",
   "OTHER": "Other",
   "ACTIVE": "Active",
-  "NOT_ACTIVE": "Disabled"
+  "NOT_ACTIVE": "Disabled",
+  "state": "State"
 }
