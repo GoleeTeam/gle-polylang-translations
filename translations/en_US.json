@@ -1734,7 +1734,7 @@
   "OTHER": "Other",
   "ACTIVE": "Active",
   "NOT_ACTIVE": "Disabled",
-
+  "state": "State",
   "taxable": "Imponibile",
   "tax_rate": "Iva",
   "tax_amount": "Importo iva",
