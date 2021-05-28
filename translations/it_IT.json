@@ -1660,9 +1660,6 @@
   "team.stats.goals_conceded": "Goal subiti",
   "team.stats.goals_difference": "Differenza reti",
 
-  "payment_method.gpay_sepa": "Sepa Debit - Golee Pay",
-  "payment_method.gpay_card": "Carta - Golee Pay",
-
   "golee_pay.dashboard": "Golee Pay Dashboard",
 
   "tranches.golee_pay": "Golee Pay",
@@ -1870,5 +1867,13 @@
   "tranche_reason.B.09.005": "Tassa Rifiuti (TARI)",
   "tranche_reason.B.10": "Svincolo/Riscatto atleti",
   "tranche_reason.B.10.001": "Svincolo atleti",
-  "tranche_reason.B.10.002": "Riscatto atleti"
+  "tranche_reason.B.10.002": "Riscatto atleti",
+
+  "payment_method.CNT": "Contanti",
+  "payment_method,.PYP": "Paypal",
+  "payment_method.BNF": "Bonifico",
+  "payment_method.ASN": "Assegno",
+  "payment_method.CRD": "Carta di credito",
+  "payment_method.GPAY_SEPA": "Sepa Debit - Golee Pay",
+  "payment_method.GPAY_CARD": "Carta - Golee Pay"
 }
