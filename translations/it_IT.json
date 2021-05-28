@@ -1733,5 +1733,17 @@
   "BANK": "Banca",
   "OTHER": "Altro",
   "ACTIVE": "Attivo",
-  "NOT_ACTIVE": "Disattivo"
+  "NOT_ACTIVE": "Disattivo",
+  "taxable": "Imponibile",
+  "tax_rate": "Iva",
+  "tax_amount": "Importa iva",
+  "ritenuta": "Ritenuta",
+  "spese_esenti": "Spese esenti",
+  "entertainment_fee": "Tassa intratten.",
+  "enpals_fee": "Tassa enpals",
+  "regional_fee": "Tassa regionale",
+  "comunal_fee": "Tassa comunale",
+  "iva_deduction_type": "Tipo detrazione",
+  "iva_deduction_amount": "Importo detrazione",
+  "total_amount": "Importo totale"
 }
