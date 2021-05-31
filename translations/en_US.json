@@ -53,6 +53,8 @@
   "sidebar.financialbalance": "Balance sheet",
   "sidebar.financialprints": "Financial Prints",
   "sidebar.financialcontoeconomico": "Cash Balances",
+  "sidebar.financialconticorrente": "Current Accounts",
+  "sidebar.financialgiroconto": "Self Transfer",
   "sidebar.user": "Users",
   "sidebar.clubsmanager": "Club manager",
   "sidebar.admin.upsellings": "Upsellings",
@@ -1726,6 +1728,7 @@
   "choose_quarter_vat_print": "Choose the quarter to generate the Quarterly VAT document",
   "balance": "Balance",
   "add_new_conto_economico": "Add new Cash Balance",
+  "conto_economico": "Cash Balance",
   "initial_cash_amount": "Saldo iniziale",
   "used_for_golee_pay": "Associato a Golee Pay",
   "code": "Code",
@@ -1890,5 +1893,8 @@
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 
   "month": "Month",
-  "insert_at_least_one_tranche_item": "Inserisci almeno una voce di costo"
+  "insert_at_least_one_tranche_item": "Inserisci almeno una voce di costo",
+  "add_new_giroconto": "Add new Self Transfer",
+  "conto_economico_from": "From cash balance",
+  "conto_economico_to": "To cash balance"
 }
