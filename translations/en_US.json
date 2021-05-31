@@ -1881,5 +1881,8 @@
   "payment_method.GPAY_CARD": "Carta - Golee Pay",
 
   "date_from": "From",
-  "date_to": "To"
+  "date_to": "To",
+
+  "bank_statements": "Bank Statements",
+  "print_bank_statements": "Select the account and the period to generate the account statement"
 }

@@ -1878,5 +1878,8 @@
   "payment_method.GPAY_CARD": "Carta - Golee Pay",
 
   "date_from": "Da",
-  "date_to": "A"
+  "date_to": "A",
+
+  "bank_statements": "Estratti conto",
+  "print_bank_statements": "Seleziona il conto corrente ed il periodo per generare l'estratto conto"
 }
