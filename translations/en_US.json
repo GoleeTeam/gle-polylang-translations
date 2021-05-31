@@ -1893,5 +1893,7 @@
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 
   "month": "Month",
-  "add_new_giroconto": "Add new Self Transfer"
+  "add_new_giroconto": "Add new Self Transfer",
+  "conto_economico_from": "From cash balance",
+  "conto_economico_al": "To cash balance"
 }

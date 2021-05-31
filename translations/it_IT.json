@@ -1890,5 +1890,7 @@
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 
   "month": "Mese",
-  "add_new_giroconto": "Aggiungi nuovo Giroconto"
+  "add_new_giroconto": "Aggiungi nuovo Giroconto",
+  "conto_economico_from": "Dal conto economico",
+  "conto_economico_al": "Al conto economico"
 }
