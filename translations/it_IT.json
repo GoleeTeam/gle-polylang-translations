@@ -1886,5 +1886,6 @@
   "prima_nota": "Prima nota",
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 
-  "month": "Mese"
+  "month": "Mese",
+  "insert_at_least_one_tranche_item": "Inserisci almeno una voce di costo"
 }
