@@ -1728,6 +1728,7 @@
   "choose_quarter_vat_print": "Choose the quarter to generate the Quarterly VAT document",
   "balance": "Balance",
   "add_new_conto_economico": "Add new Cash Balance",
+  "conto_economico": "Cash Balance",
   "initial_cash_amount": "Saldo iniziale",
   "used_for_golee_pay": "Associato a Golee Pay",
   "code": "Code",
@@ -1891,5 +1892,6 @@
   "prima_nota": "Prima nota",
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 
-  "month": "Month"
+  "month": "Month",
+  "add_new_giroconto": "Add new Self Transfer"
 }
