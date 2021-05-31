@@ -1881,5 +1881,10 @@
   "date_to": "A",
 
   "bank_statements": "Estratti conto",
-  "print_bank_statements": "Seleziona il conto corrente ed il periodo per generare l'estratto conto"
+  "print_bank_statements": "Seleziona il conto corrente ed il periodo per generare l'estratto conto",
+
+  "prima_nota": "Prima nota",
+  "print_prima_nota": "Seleziona il mese e stampa la prima nota",
+
+  "month": "Mese"
 }
