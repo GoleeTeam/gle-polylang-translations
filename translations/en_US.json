@@ -53,6 +53,8 @@
   "sidebar.financialbalance": "Balance sheet",
   "sidebar.financialprints": "Financial Prints",
   "sidebar.financialcontoeconomico": "Cash Balances",
+  "sidebar.financialconticorrente": "Current Accounts",
+  "sidebar.financialgiroconto": "Self Transfer",
   "sidebar.user": "Users",
   "sidebar.clubsmanager": "Club manager",
   "sidebar.admin.upsellings": "Upsellings",

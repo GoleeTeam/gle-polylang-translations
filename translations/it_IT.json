@@ -61,6 +61,8 @@
   "sidebar.financialbalance": "Bilancio",
   "sidebar.financialprints": "Stampe Finanziarie",
   "sidebar.financialcontoeconomico": "Conti Economici",
+  "sidebar.financialconticorrente": "Conti Corrente",
+  "sidebar.financialgiroconto": "Giroconto",
   "sidebar.user": "Utenti",
   "sidebar.clubsmanager": "Club manager",
   "page.signInTitle": "Accedi",
