@@ -1878,5 +1878,8 @@
   "payment_method.ASN": "Assegno",
   "payment_method.CRD": "Carta di credito",
   "payment_method.GPAY_SEPA": "Sepa Debit - Golee Pay",
-  "payment_method.GPAY_CARD": "Carta - Golee Pay"
+  "payment_method.GPAY_CARD": "Carta - Golee Pay",
+
+  "date_from": "From",
+  "date_to": "To"
 }
