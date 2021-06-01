@@ -1909,6 +1909,8 @@
   "bank_statements": "Bank Statements",
   "print_bank_statements": "Select the account and the period to generate the account statement",
 
+  "print_contieconomici": "Select the period to generate the cash balances",
+
   "prima_nota": "Prima nota",
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 
@@ -1916,5 +1918,9 @@
   "insert_at_least_one_tranche_item": "Inserisci almeno una voce di costo",
   "add_new_giroconto": "Add new Self Transfer",
   "conto_economico_from": "From cash balance",
-  "conto_economico_to": "To cash balance"
+  "conto_economico_to": "To cash balance",
+  "error_delete_contoeconomico": "There is a transfer account associated with this cash balance, which cannot be deleted",
+  "calendar_year": "Calendar Year",
+  "seasonal": "Stagionale",
+  "choose_period": "Or choose the period"
 }
