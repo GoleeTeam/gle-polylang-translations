@@ -1892,5 +1892,6 @@
   "month": "Mese",
   "add_new_giroconto": "Aggiungi nuovo Giroconto",
   "conto_economico_from": "Dal conto economico",
-  "conto_economico_to": "Al conto economico"
+  "conto_economico_to": "Al conto economico",
+  "error_delete_contoeconomico": "È presente un giroconto associato a questo conto corrente, impossibile eliminare"
 }
