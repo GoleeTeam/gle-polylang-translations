@@ -1919,5 +1919,7 @@
   "add_new_giroconto": "Add new Self Transfer",
   "conto_economico_from": "From cash balance",
   "conto_economico_to": "To cash balance",
-  "error_delete_contoeconomico": "There is a transfer account associated with this cash balance, which cannot be deleted"
+  "error_delete_contoeconomico": "There is a transfer account associated with this cash balance, which cannot be deleted",
+  "calendar_year": "Calendar Year",
+  "seasonal": "Stagionale"
 }
