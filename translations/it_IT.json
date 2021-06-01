@@ -1906,6 +1906,8 @@
   "bank_statements": "Estratti conto",
   "print_bank_statements": "Seleziona il conto corrente ed il periodo per generare l'estratto conto",
 
+  "print_contieconomici": "Seleziona il periodo per generare il piano dei conti economici",
+
   "prima_nota": "Prima nota",
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 

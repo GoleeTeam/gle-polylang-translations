@@ -1909,6 +1909,8 @@
   "bank_statements": "Bank Statements",
   "print_bank_statements": "Select the account and the period to generate the account statement",
 
+  "print_contieconomici": "Select the period to generate the cash balances",
+
   "prima_nota": "Prima nota",
   "print_prima_nota": "Seleziona il mese e stampa la prima nota",
 
