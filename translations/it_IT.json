@@ -1920,5 +1920,8 @@
   "error_delete_contoeconomico": "È presente un giroconto associato a questo conto corrente, impossibile eliminare",
   "calendar_year": "Anno solare",
   "seasonal": "Stagionale",
-  "choose_period": "Oppure scegli il periodo"
+  "choose_period": "Oppure scegli il periodo",
+
+  "generate_certification_started": "Generazione certificazione avviata",
+  "generate_certification_error": "Si è verificato un errore durante la generazione della certificazione"
 }

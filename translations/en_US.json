@@ -1922,5 +1922,8 @@
   "error_delete_contoeconomico": "There is a transfer account associated with this cash balance, which cannot be deleted",
   "calendar_year": "Calendar Year",
   "seasonal": "Stagionale",
-  "choose_period": "Or choose the period"
+  "choose_period": "Or choose the period",
+
+  "generate_certification_started": "Generazione certificazione avviata",
+  "generate_certification_error": "Si è verificato un errore durante la generazione della certificazione"
 }
