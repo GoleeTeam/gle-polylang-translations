@@ -768,6 +768,7 @@
   "athletes.financial.tranches.edit.add_certification": "Add certification",
   "athletes.financial.tranches.edit.replace_receipt": "Replace receipt",
   "athletes.financial.tranches.edit.replace_certification": "Replace certification",
+  "athletes.financial.tranches.edit.view_certification": "View certification",
   "athletes.financial.tranches.name": "Name",
   "athletes.financial.tranches.type": "Type",
   "athletes.financial.tranches.edit.scope.general": "General",
