@@ -1924,5 +1924,8 @@
   "choose_period": "Oppure scegli il periodo",
 
   "generate_certification_started": "Generazione certificazione avviata",
-  "generate_certification_error": "Si è verificato un errore durante la generazione della certificazione"
+  "generate_certification_error": "Si è verificato un errore durante la generazione della certificazione",
+
+  "create_payment_tranche": "Aggiungi tranche",
+  "edit_payment_tranche": "Modifica tranche"
 }
