@@ -1929,5 +1929,6 @@
   "generate_certification_error": "Si è verificato un errore durante la generazione della certificazione",
 
   "create_payment_tranche": "Add tranche",
-  "edit_payment_tranche": "Edit tranche"
+  "edit_payment_tranche": "Edit tranche",
+  "quarter": "Quarter"
 }
