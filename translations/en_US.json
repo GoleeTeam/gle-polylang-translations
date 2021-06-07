@@ -1930,5 +1930,6 @@
 
   "create_payment_tranche": "Add tranche",
   "edit_payment_tranche": "Edit tranche",
-  "quarter": "Quarter"
+  "quarter": "Quarter",
+  "start_with_golee": "Start with Golee"
 }

@@ -1928,5 +1928,6 @@
 
   "create_payment_tranche": "Aggiungi tranche",
   "edit_payment_tranche": "Modifica tranche",
-  "quarter": "Trimestre"
+  "quarter": "Trimestre",
+  "start_with_golee": "Inizia con Golee"
 }
