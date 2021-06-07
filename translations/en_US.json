@@ -1931,5 +1931,10 @@
   "create_payment_tranche": "Add tranche",
   "edit_payment_tranche": "Edit tranche",
   "quarter": "Quarter",
-  "start_with_golee": "Start with Golee"
+  "start_with_golee": "Start with Golee",
+
+  "tour.add_teams": "Click on the 'Add' button to add a new team. Non-football and non-FIFC teams can also be added",
+  "tour.add_athletes": "Click on the 'Add' button to add each player individually",
+  "tour.add_athletes_with_teams": "Click on the 'Teams' button to add athletes via teams",
+  "tour.import_athletes": "Click the 'Import' button to add athletes via Excel file."
 }

@@ -1929,5 +1929,10 @@
   "create_payment_tranche": "Aggiungi tranche",
   "edit_payment_tranche": "Modifica tranche",
   "quarter": "Trimestre",
-  "start_with_golee": "Inizia con Golee"
+  "start_with_golee": "Inizia con Golee",
+
+  "tour.add_teams": "Clicca sul pulsante 'Aggiungi' per aggiungere una nuova squadra. È possibile aggiungere anche squadre non di calcio e non appartenenti alla FIGC",
+  "tour.add_athletes": "Clicca sul pulsante 'Aggiungi' per aggiungere singolarmente ogni giocatore",
+  "tour.add_athletes_with_teams": "Clicca sul pulsante 'Squadre' per aggiungere gli atleti tramite le squadre",
+  "tour.import_athletes": "Clicca sul pulsante 'Importa' per aggiungere gli atleti tramite file Excel"
 }
