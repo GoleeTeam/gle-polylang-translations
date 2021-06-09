@@ -1929,5 +1929,24 @@
   "create_payment_tranche": "Aggiungi tranche",
   "edit_payment_tranche": "Modifica tranche",
   "quarter": "Trimestre",
-  "start_with_golee": "Inizia con Golee"
+  "start_with_golee": "Inizia con Golee",
+
+  "start_with_golee_phrase": "Per cominciare ad usare Golee Manager\nè necessario inserire le squadre e gli atleti del tuo club.",
+  "start_with_golee_subtitle": "Compilare l’anagrafica è facile e intuitivo, segui le istruzioni sottostanti.",
+  "add_teams": "Aggiungi squadre" ,
+  "teams_entred": "Squadre inserite",
+  "onboarding_dashboard.1": "Accedi: Area Anagrafica -> Squadre",
+  "onboarding_dashboard.2": "Aggiungere una squadra su Golee Manager è facile e veloce. Accedi all’Area Anagrafica, clicca su Aggiungi e compila il form.",
+  "what_do_you_need": "Cosa ti serve",
+  "team_names": "Nomi delle squadre",
+  "category": "Categoria",
+  "add_athletes": "Aggiungi atleti",
+  "athletes_enteres": "Atleti inseriti",
+  "onboarding_dashboard.3": "Accedi: Area Anagrafica -> Atleti",
+  "onboarding_dashboard.4": "Prima di cominciare ad aggiungere glia atleti del tuo club devi necessariamente aggiungere le squadre nelle quali inserirli.",
+  "onboarding_dashboard.5": "Come puoi caricare la lista",
+  "preenrolment": "Preiscrizione",
+  "single_upload": "Caricamento singolo",
+  "import_from_file_excel": "Importa da file Excel",
+  "multiple_insertion": "Inserimento multiplo (sconsigliato)"
 }

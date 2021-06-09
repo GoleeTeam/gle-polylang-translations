@@ -1931,5 +1931,24 @@
   "create_payment_tranche": "Add tranche",
   "edit_payment_tranche": "Edit tranche",
   "quarter": "Quarter",
-  "start_with_golee": "Start with Golee"
+  "start_with_golee": "Start with Golee",
+
+  "start_with_golee_phrase": "To start using Golee Manager\nyou need to enter the teams and athletes of your club.",
+  "start_with_golee_subtitle": "Filling in the registry is easy and intuitive, follow the instructions below.",
+  "add_teams": "Add teams" ,
+  "teams_entred": "Teams inserted",
+  "onboarding_dashboard.1": "Login: Registry Area -> Team",
+  "onboarding_dashboard.2": "Adding a team to Golee Manager is quick and easy. Access the Personal Data Area, click on Add and fill out the form.",
+  "what_do_you_need": "What do you need",
+  "team_names": "Team names",
+  "category": "Category",
+  "add_athletes": "Add athlete",
+  "athletes_enteres": "Athlete inserted",
+  "onboarding_dashboard.3": "Login: Registry Area -> Athlete",
+  "onboarding_dashboard.4": "Before starting to add the athletes of your club you must necessarily add the teams in which to insert them.",
+  "onboarding_dashboard.5": "How can you upload the list",
+  "preenrolment": "Preenrolment",
+  "single_upload": "Single insertion",
+  "import_from_file_excel": "Import from Excel file",
+  "multiple_insertion": "Multiple insertion (not recommended)"
 }
