@@ -1950,5 +1950,9 @@
   "preenrolment": "Preenrolment",
   "single_upload": "Single insertion",
   "import_from_file_excel": "Import from Excel file",
-  "multiple_insertion": "Multiple insertion (not recommended)"
+  "multiple_insertion": "Multiple insertion (not recommended)",
+  "tour.add_teams": "Click on the 'Add' button to add a new team. Non-football and non-FIFC teams can also be added",
+  "tour.add_athletes": "Click on the 'Add' button to add each player individually",
+  "tour.add_athletes_with_teams": "Click on the 'Teams' button to add athletes via teams",
+  "tour.import_athletes": "Click the 'Import' button to add athletes via Excel file."
 }

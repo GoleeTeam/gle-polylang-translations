@@ -1948,5 +1948,9 @@
   "preenrolment": "Preiscrizione",
   "single_upload": "Caricamento singolo",
   "import_from_file_excel": "Importa da file Excel",
-  "multiple_insertion": "Inserimento multiplo (sconsigliato)"
+  "multiple_insertion": "Inserimento multiplo (sconsigliato)",
+  "tour.add_teams": "Clicca sul pulsante 'Aggiungi' per aggiungere una nuova squadra. È possibile aggiungere anche squadre non di calcio e non appartenenti alla FIGC",
+  "tour.add_athletes": "Clicca sul pulsante 'Aggiungi' per aggiungere singolarmente ogni giocatore",
+  "tour.add_athletes_with_teams": "Clicca sul pulsante 'Squadre' per aggiungere gli atleti tramite le squadre",
+  "tour.import_athletes": "Clicca sul pulsante 'Importa' per aggiungere gli atleti tramite file Excel"
 }
