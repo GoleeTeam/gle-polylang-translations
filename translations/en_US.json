@@ -1954,5 +1954,17 @@
   "tour.add_teams": "Click on the 'Add' button to add a new team. Non-football and non-FIFC teams can also be added",
   "tour.add_athletes": "Click on the 'Add' button to add each player individually",
   "tour.add_athletes_with_teams": "Click on the 'Teams' button to add athletes via teams",
-  "tour.import_athletes": "Click the 'Import' button to add athletes via Excel file."
+  "tour.import_athletes": "Click the 'Import' button to add athletes via Excel file.",
+  "get_start_right_now": "Get started with Golee Manager right away",
+  "completed": "Completed",
+  "to_complete": "To complete",
+  "congratulation": "Congratulation",
+  "getting_start.1": "From this screen we will guide you to start using all the features of Golee Manager.",
+  "getting_start.2": "Initial data entry is essential to exploit the full potential of the platform.",
+  "profile_verified": "Verified profile",
+  "add_team": "Add a team",
+  "add_athlete": "Add an athlete",
+  "getting_start.3": "Remember that the tax code is mandatory to ensure the uniqueness of your athlete.",
+  "import_athlete_excel": "Import athletes with Excel",
+  "have_preenrolment_filled_out": "Have a pre-enrolment filled out"
 }

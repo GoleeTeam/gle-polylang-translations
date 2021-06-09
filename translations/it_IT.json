@@ -1952,5 +1952,17 @@
   "tour.add_teams": "Clicca sul pulsante 'Aggiungi' per aggiungere una nuova squadra. È possibile aggiungere anche squadre non di calcio e non appartenenti alla FIGC",
   "tour.add_athletes": "Clicca sul pulsante 'Aggiungi' per aggiungere singolarmente ogni giocatore",
   "tour.add_athletes_with_teams": "Clicca sul pulsante 'Squadre' per aggiungere gli atleti tramite le squadre",
-  "tour.import_athletes": "Clicca sul pulsante 'Importa' per aggiungere gli atleti tramite file Excel"
+  "tour.import_athletes": "Clicca sul pulsante 'Importa' per aggiungere gli atleti tramite file Excel",
+  "get_start_right_now": "Inizia subito con Golee Manager",
+  "completed": "Completato",
+  "to_complete": "Da completare",
+  "congratulation": "Congratulazioni",
+  "getting_start.1": "Da questa schermata ti guideremo per iniziare a usare tutte le funzionalità di Golee Manager.",
+  "getting_start.2": "L’inserimento dei dati iniziale è fondamentale per sfruttare l’intero potenziale della piattaforma.",
+  "profile_verified": "Profilo verificato",
+  "add_team": "Aggiungi una squadra",
+  "add_athlete": "Aggiungi un atleta",
+  "getting_start.3": "N.B. ricorda che il codice fiscale è un dato obbligatorio per garantire l’unicità del tuo atleta.",
+  "import_athlete_excel": "Importa gli atleti con Excel",
+  "have_preenrolment_filled_out": "Fai compilare una pre-iscrizione"
 }
