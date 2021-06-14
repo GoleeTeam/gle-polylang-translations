@@ -1967,5 +1967,6 @@
   "add_athlete": "Add an athlete",
   "getting_start.3": "Remember that the tax code is mandatory to ensure the uniqueness of your athlete.",
   "import_athlete_excel": "Import athletes with Excel",
-  "have_preenrolment_filled_out": "Have a pre-enrolment filled out"
+  "have_preenrolment_filled_out": "Have a pre-enrolment filled out",
+  "settings": "Settings"
 }

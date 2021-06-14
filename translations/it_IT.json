@@ -2891,5 +2891,6 @@
   "add_athlete": "Aggiungi un atleta",
   "getting_start.3": "N.B. ricorda che il codice fiscale è un dato obbligatorio per garantire l’unicità del tuo atleta.",
   "import_athlete_excel": "Importa gli atleti con Excel",
-  "have_preenrolment_filled_out": "Fai compilare una pre-iscrizione"
+  "have_preenrolment_filled_out": "Fai compilare una pre-iscrizione",
+  "settings": "Impostazioni"
 }
