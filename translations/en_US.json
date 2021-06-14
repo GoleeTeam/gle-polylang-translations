@@ -1707,6 +1707,7 @@
   "roles.press_office.description": "View and edit the Social Area only.",
 
   "profiles_description": "Profiles description",
+  "profile_creation_error": "This email is already being used within the Golee ecosystem. Please use another one.",
   "profile": "Profile",
   "profile_description": "Description",
 

@@ -2644,6 +2644,7 @@
   "administrative_secretary.description": "Visualizza e modifica in tutte le Aree di Golee Manager, esclusa l'Area Finanziaria e tutti i dati economici connessi.",
   "press_office.description": "Visualizza e modifica soltanto l'Area Social.",
   "profiles_description": "Descrizione profili",
+  "profile_creation_error": "Questa mail risulta già utilizzata all'interno dell'ecosistema Golee. Utilizzane un altra.",
   "profile": "Profilo",
   "profile_description": "Descrizione",
   "disable_account": "Disabilita account",
