@@ -1839,6 +1839,7 @@
   "athletes.financial.tranches.receipt": "Ricevuta",
   "tranches": "Tranches",
   "cost_items": "Voci di costo",
+  "purchase_items": "Voci di acquisto",
   "refund_contract": "Rimborso contratto",
   "registration_fee": "Quota di iscrizione",
   "athletes.financial.tranches.types.membership_fee": "Quota associativa",
